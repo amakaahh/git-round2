@@ -1,3 +1,4 @@
 Practicing Git for the second time.
 Repetition makes it easier.
+This line is from the update-notes branch.
 
