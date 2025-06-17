@@ -1,2 +1,3 @@
 Practicing Git for the second time.
+Repetition makes it easier.
 
